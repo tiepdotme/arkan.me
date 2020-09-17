@@ -3,7 +3,7 @@ layout: post
 title:  "Building a Telegram bot to automate price tracking e-mail notifications"
 date:   2019-10-17 12:00:00 +0000
 categories: projects
-tags: projects python automation
+tags: python automation telegram
 ---
 [Medium Link](https://medium.com/@gokh/building-a-telegram-bot-to-automate-price-tracking-e-mail-notifications-b0a9fa230615) | 
 [Github Repo](https://github.com/gokhj/email-watcher-bot)

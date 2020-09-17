@@ -3,7 +3,7 @@ layout: post
 title:  "Pokedex Builder"
 date:   2019-12-17 12:00:00 +0000
 categories: projects
-tags: projects scraping python
+tags: scraping python
 ---
 [Github Repo](https://github.com/gokhj/Pokedex-Builder)
 

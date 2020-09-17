@@ -3,7 +3,7 @@ layout: post
 title:  "Predicting Real Credit Risk Data"
 date:   2020-06-17 12:00:00 +0100
 categories: projects
-tags: projects python machine-learning jupyter
+tags: python machine-learning jupyter
 ---
 
 This post overviews and examines predicting real credit risk data on people from various backgrounds.

@@ -3,7 +3,7 @@ layout: post
 title:  "Logistic Regression Implementation using Batch Gradient Descent"
 date:   2020-06-01 12:00:00 +0100
 categories: projects
-tags: projects jupyter python machine-learning
+tags: jupyter python machine-learning
 ---
 [GitHub Repo](https://github.com/gokhj/Logistic-Regression)
 

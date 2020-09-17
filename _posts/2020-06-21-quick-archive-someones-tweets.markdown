@@ -3,7 +3,7 @@ layout: post
 title:  "Quickly Archive Public Twitter Accounts"
 date:   2020-06-21 12:00:00 +0100
 categories: projects
-tags: projects python telegram twitter
+tags: python telegram twitter
 ---
 
 I recently discovered that if a tweet link is shared on Telegram, it will stay there forever (possibly) even though the account's long gone or the tweet is deleted.

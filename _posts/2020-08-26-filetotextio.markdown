@@ -3,7 +3,7 @@ layout: post
 title:  "filetotext.io - A Not Dodgy Way To Export Text On Images"
 date:   2020-08-26 12:00:00 +0100
 categories: projects
-tags: projects javascript vue node aws
+tags: javascript vue node aws webapp
 ---
 
 [Live Project Link](https://filetotext.io/) |

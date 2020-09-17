@@ -3,7 +3,7 @@ layout: post
 title:  "My personal landing page built with Vue.js, Node.js and AWS Lambda."
 date:   2020-05-16 12:00:00 +0100
 categories: projects
-tags: projects personal vue javascript
+tags: personal vue javascript webapp
 ---
 [Live Project Link](https://gokhanarkan.com/) |
 [GitHub Repo](https://github.com/gokhj/gokhanarkan.com)

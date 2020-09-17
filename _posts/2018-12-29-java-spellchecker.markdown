@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Implementing a Spellchecker on Java"
-date:   2019-01-19 12:00:00 +0000
+date:   2018-12-29 12:00:00 +0000
 categories: projects
-tags: projects java
+tags: java algorithms data-structures
 ---
 
 [GitHub Repo](https://github.com/gokhj/Java-Spellchecker)
@@ -43,7 +43,7 @@ The Levenshtein distance (a.k.a edit distance) is a measure of similarity betwee
 
 The edit distance is impressive when you want to build a primitive spellchecker. It is one of the easiest ways to implement "Do you mean xxx?" feature just like Google Search.
 
-![Equation of Edit Distance](https://wikimedia.org/api/rest_v1/media/math/render/svg/4520f5376b54613a5b0e6c6db46083989f901821)
+![Equation of Edit Distance](/assets/spellchecker/equation.jpg)
 
 
 ### Code

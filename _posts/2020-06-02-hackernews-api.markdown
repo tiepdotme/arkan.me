@@ -3,7 +3,7 @@ layout: post
 title:  "Automating HackerNews Stories"
 date:   2020-06-02 12:00:00 +0100
 categories: projects
-tags: projects automation node javascript
+tags: automation node javascript
 ---
 [Live Project Link](https://hackernews.gokhanarkan.com/) |
 [GitHub Repo](https://github.com/gokhj/hackernews-automation-api/)

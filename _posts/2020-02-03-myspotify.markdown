@@ -3,7 +3,7 @@ layout: post
 title:  "mySpotify.me: Your Spotify History and Recommendations"
 date:   2020-02-03 12:00:00 +0100
 categories: projects
-tags: projects react javascript webapp
+tags: react javascript webapp
 ---
 [Live Project Link](https://myspotify.me/) |
 [GitHub Repo](https://github.com/gokhj/mySpotify.me)

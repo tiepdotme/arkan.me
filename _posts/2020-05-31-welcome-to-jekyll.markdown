@@ -3,7 +3,7 @@ layout: post
 title:  "I started using Jekyll"
 date:   2020-05-31 10:48:22 +0100
 categories: blog
-tags: blog
+tags: blog jekyll
 ---
 Today, as of 31st of May, 2020; I decided to create a blog of things and thoughts; particularly the toy projects I made.
 

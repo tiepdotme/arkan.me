@@ -3,7 +3,7 @@ layout: post
 title:  "Nearest Neighbour Implementation"
 date:   2020-04-23 12:00:00 +0100
 categories: projects
-tags: projects python jupyter machine-learning
+tags: python jupyter machine-learning
 ---
 
 ```python

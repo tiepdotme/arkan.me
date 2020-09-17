@@ -3,7 +3,7 @@ layout: post
 title:  "Scraping Top Rated TV Episodes from IMDb"
 date:   2020-05-21 12:00:00 +0100
 categories: projects
-tags: projects python scraping jupyter
+tags: python scraping jupyter
 ---
 This is a mini personal project which I spent no more than 2 hours and frankly did it because I couldn't sleep last night due to insomnia. It is entirely autonomous, just input an IMDB id and it works for you.
 

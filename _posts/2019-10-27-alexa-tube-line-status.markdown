@@ -3,7 +3,7 @@ layout: post
 title:  "Tube Line Status: Check Transport for London status from Amazon Echo"
 date:   2019-10-27 12:00:00 +0100
 categories: projects
-tags: projects python lambda
+tags: python lambda aws
 ---
 [Live Project Link](https://alexa.amazon.co.uk/spa/index.html#skills/dp/B081LWRNNN) |
 [GitHub Repo](https://github.com/gokhj/alexa-tube-line-status)
