@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Paint5.js - Paint-like web app built with p5.js framework"
+date:   2018-08-10 12:00:00 +0000
+categories: projects
+tags: projects javascript processing p5
+---
+[Live Project Link](https://paint5.netlify.app/) |
+[GitHub Repo](https://github.com/gokhj/paint5js)
+
+This project was written entirely in JavaScript and p5.js framework. I was not really a fan of JavaScript before, used JQuery in the past for simple animations or AJAX requests, but never completely dived in the concept.
+
+You can draw stuff on the canvas, add stickers, use effects, put shapes etc. This is a very limited version of Microsoft Paint.
+
+![App Screenshot](/assets/paint5/paint5.png)
+
+Use the live project link above to interact with the application.
+

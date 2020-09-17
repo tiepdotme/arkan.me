@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "fliks.xyz - A Search Engine for Netflix/Other Streaming Services"
+date:   2020-01-17 12:00:00 +0100
+categories: projects
+tags: projects python flask javascript webapp
+---
+[Live Project Link](https://www.fliks.xyz/) |
+[GitHub Repo](https://github.com/gokhj/Fliks.XYZ)
+
+This is a simple Flask app that I built for myself. I needed something minimal and straightforward to search for things.
+There is also a What's New section to check the latest releases on Netflix. 
+The app runs on Heroku and checks with multiple API's to serve the content.
+
+I am caching some information on Redis to avoid making multiple API calls.
+
+---
+
+**Update 1**
+OK. I hear some of the feedback. What's New part is now giving the information based on your IP address. I also added the country list dropdown.
+
+**Update 2**
+The search bar now stores the previous search. Thanks for the feedback stranger.
+
+**Update 3**
+IP feature is completed for across services too. It now works everywhere in the app.
+
+---
+
+## Images
+
+### Search Across Services
+![Search across services](/assets/fliks/eZSKfRJ.png)
+
+### Netflix Search
+![Netflix search](/assets/fliks/hsjwgf0.png)
+
+### Checking Available Countries
+![Available countries](/assets/fliks/hnz60F2.png)
+
+### What's New on Netflix
+![New on Netflix](/assets/fliks/1G6QNva.png)
+
+The ```app/functions/instance/config.py``` is storing the credentials (it's the only file missing from this repo), for which services I use feel free to drop me a line.
