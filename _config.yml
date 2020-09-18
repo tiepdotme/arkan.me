@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-UK # default lang
 timezone: Europe/London # set your timezone
 image: # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/gokhj/blog-v2 # site repo [optional]
+repo: https://github.com/gokhj/arkan.me # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -13,11 +13,11 @@ author:
   name: Gökhan Arkan # author name
   bio: >- # tell to the world
     A personal blog about things, usually the little projects I worked on.
-  username: username # general username
+  username: # general username
   github: gokhj # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  twitter: # twitter username
+  facebook: # facebook username
+  email: gokhan@hey.com # email adress
   avatar:  # change with your own avatar
 
 # URL settings
