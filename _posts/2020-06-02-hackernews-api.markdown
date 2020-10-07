@@ -5,8 +5,8 @@ date:   2020-06-02 12:00:00 +0100
 categories: projects
 tags: automation node javascript
 ---
-[Live Project Link](https://hackernews.gokhanarkan.com/) |
-[GitHub Repo](https://github.com/gokhj/hackernews-automation-api/)
+[Live Project Link](https://hackernews.gokhanarkan.com/){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/hackernews-automation-api/){:target="_blank"}
 
 Like most of the developers, I like to keep up with tech-related news happening across the world. I believe it is a vital part of my job, and thankfully, I love it. In my case, I prefer to read blog posts, news and articles or listen to podcasts about technology. My go-to website, in this case, is Y Combinator's Hacker News.
 
@@ -14,7 +14,7 @@ I like automating things, it is not because I am lazy; but I find them extraordi
 
 As a solution to the above problem, I thought about creating a little application to skim through the tech stories and send the top ones to my mobile device straight away. So in this blog post, I will be talking about my intentions and technological choice justifications about why I developed this API.
 
-Moreover, this API is entirely public and available at all times for everyone. A friend has already created a little [reading app](https://hackernews-stories.netlify.app/) as a practice to learn React.
+Moreover, this API is entirely public and available at all times for everyone. A friend has already created a little [reading app](https://hackernews-stories.netlify.app/){:target="_blank"} as a practice to learn React.
 
 So let's get back to the post.
 

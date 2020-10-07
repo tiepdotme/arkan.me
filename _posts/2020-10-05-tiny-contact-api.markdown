@@ -6,16 +6,16 @@ categories: projects
 tags: javascript node
 ---
 
-[Live Project Link](https://post.arkan.me/) |
-[GitHub Repo](https://github.com/gokhj/post.arkan.me/)
+[Live Project Link](https://post.arkan.me/){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/post.arkan.me/){:target="_blank"}
 
-There is this company called Plaid I have recently heard because it was all over the news as [Visa acquired it for \$5.3 billion](https://techcrunch.com/2020/01/13/visa-is-acquiring-plaid-for-5-3-billion-2x-its-final-private-valuation/). I have an eccentric habit that I tend to click on the careers page on every company website I visit. In fact, I browse the software engineering roles and compare the requirements with me to catch up with what they want from a candidate these days. It is indeed an excellent way to catch up with the industry, new technologies and such.
+There is this company called Plaid I have recently heard because it was all over the news as [Visa acquired it for \$5.3 billion](https://techcrunch.com/2020/01/13/visa-is-acquiring-plaid-for-5-3-billion-2x-its-final-private-valuation/){:target="_blank"}. I have a fairly eccentric habit that I tend to click on the careers page on every company website I visit. In fact, I browse the software engineering roles and compare the requirements with my skills to catch up with what they want from a candidate these days. It is indeed an excellent way to catch up with the industry, new technologies and such.
 
-So, I visited Plaid’s careers page and found something unusual here; besides, I immediately loved it. I adore these kinds of gimmicks, and I am an easily impressed person myself. After all, this was a company focused on APIs; they offer candidates to apply by API as well. With their own words: “At Plaid, our API is core to everything we do. In the spirit of our culture, we love receiving job applications as calls to our API.”
+So, I visited Plaid’s careers page just like every other company website and what I came across in this one made me fall in love instantly. I adore these kinds of gimmicks, as I am an easily impressed person myself. After all, this was a company focused on APIs; they offer candidates to apply by API as well. With their own words: “At Plaid, our API is core to everything we do. In the spirit of our culture, we love receiving job applications as calls to our API.”
 
 ![Apply by API](/assets/postarkanme/plaid.png)
 
-This gave me an idea to build a little API as a toy project; so I can express that I love building APIs just like Plaid did. I was planning to display it on my [personal page](https://gokhanarkan.com); therefore, I would open up a possibility for Visa to acquire me for \$5.3 billion too. Likewise, it would be such enjoyment for fellow developers to contact me, or maybe I am entirely wrong.
+This gave me an idea to build a little API as a toy project; so I can express that I love building APIs just like Plaid did. I was planning to display it on my [personal page](https://gokhanarkan.com){:target="_blank"}; therefore, I would open up a possibility for Visa to acquire me for \$5.3 billion too. Likewise, it would be such enjoyment for fellow developers to contact me, or maybe I am entirely wrong.
 
 - [ ] **Beginning of a cheap joke, I advise not to read**
 
@@ -35,9 +35,9 @@ I prepared the README.md file and decorated it with some scripts along with a ro
 
 # Boring stuff
 
-&rarr; Check the code examples [here](https://post.arkan.me/).
+&rarr; Check the code examples [here](https://post.arkan.me/){:target="_blank"}.
 
-&rarr; Oh, I also created a little demo form because the project was looking dull; it’s [here](https://post.arkan.me/example). It is hard to believe that I made this page within a single HTML file in 10 minutes, thanks to Vue and TailwindCSS!
+&rarr; Oh, I also created a little demo form because the project was looking dull; it’s [here](https://post.arkan.me/example){:target="_blank"}. It is hard to believe that I made this page within a single HTML file in 10 minutes, thanks to Vue and TailwindCSS!
 
 ![Form](/assets/postarkanme/form.png)
 

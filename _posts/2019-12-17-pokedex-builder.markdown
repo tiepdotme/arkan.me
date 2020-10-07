@@ -5,12 +5,12 @@ date:   2019-12-17 12:00:00 +0000
 categories: projects
 tags: scraping python
 ---
-[Github Repo](https://github.com/gokhj/Pokedex-Builder)
+[Github Repo](https://github.com/gokhj/Pokedex-Builder){:target="_blank"}
 
 
 I decided to write my own minimalistic Pokédex. You never know you need until you need it.
 
-A day ago, I published [this repo](https://github.com/gokhj/get_pokemon_names), and it gave me the idea to scrape the necessary information from different resources to create my own database.
+A day ago, I published [this repo](https://github.com/gokhj/get_pokemon_names){:target="_blank"}, and it gave me the idea to scrape the necessary information from different resources to create my own database.
 
 Although the pokedex app is currently private since it's in development, I am sharing the scraping algorithm and current data publicly for everyone to use.
 
@@ -18,7 +18,7 @@ Note that this is an ongoing project and the current data set is expanding regul
 
 I will add a client file to create objects, access generic data soon.
 
-Huge thanks to [PokemonDB](https://pokemondb.net) for providing the information.
+Huge thanks to [PokemonDB](https://pokemondb.net){:target="_blank"} for providing the information.
 
 ---
 

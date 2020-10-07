@@ -5,14 +5,14 @@ date:   2020-05-16 12:00:00 +0100
 categories: projects
 tags: personal vue javascript webapp
 ---
-[Live Project Link](https://gokhanarkan.com/) |
-[GitHub Repo](https://github.com/gokhj/gokhanarkan.com)
+[Live Project Link](https://gokhanarkan.com/){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/gokhanarkan.com){:target="_blank"}
 
 I have been recently advised to use a personal landing page so people can find me easily since I don't use social media much. I took this opportunity to try Vue.js as I wanted to apply this to something for a long time.
 
 This is my personal landing page built with Vue.js and hosted with Netlify. The contact form is integrated with AWS Lambda and Node.js.
 
-I will style this page similar to Edward Tufte's handouts. [Check here](https://edwardtufte.github.io/tufte-css/) for more.
+I will style this page similar to Edward Tufte's handouts. [Check here](https://edwardtufte.github.io/tufte-css/){:target="_blank"} for more.
 
 ![Page](/assets/personalwebsite/page.png)
 

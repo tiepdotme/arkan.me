@@ -7,7 +7,7 @@ tags: python machine-learning jupyter
 ---
 
 This post overviews and examines predicting real credit risk data on people from various backgrounds.
-The training data I used is [here](https://gist.github.com/gokhj/f138856c2d759537264e02e4bdfc51cd), and the test data is [here](https://gist.github.com/gokhj/546f5454ed8c23fc5c3e0d41b2a0061d).
+The training data I used is [here](https://gist.github.com/gokhj/f138856c2d759537264e02e4bdfc51cd){:target="_blank"}, and the test data is [here](https://gist.github.com/gokhj/546f5454ed8c23fc5c3e0d41b2a0061d){:target="_blank"}.
 
 
 The following algorithms evaluated and their performance is tested on this particular credit risk problem.

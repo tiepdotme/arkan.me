@@ -6,7 +6,7 @@ categories: projects
 tags: java algorithms data-structures
 ---
 
-[GitHub Repo](https://github.com/gokhj/Java-Spellchecker)
+[GitHub Repo](https://github.com/gokhj/Java-Spellchecker){:target="_blank"}
 
 This is a spellchecker application implemented with Java.
 
@@ -14,13 +14,13 @@ What I like about programming is, you can get to a point with almost infinite wa
 
 I am using ArrayLists and Hashtables in this project along with Soundex and Levenshtein algorithm implementations from scratch.
 
-The purpose of ArrayLists are to store the dictionary in the memory, so it will be faster to extract the desired word compared to finding it in a database. On the other hand, HashTable structure is used to store the Soundex values of each word so we can, again, see the relevant points quickly. [What is Random Access Memory?](https://www.interviewcake.com/article/python3/data-structures-coding-interview?course=fc1&section=algorithmic-thinking#ram)
+The purpose of ArrayLists are to store the dictionary in the memory, so it will be faster to extract the desired word compared to finding it in a database. On the other hand, HashTable structure is used to store the Soundex values of each word so we can, again, see the relevant points quickly. [What is Random Access Memory?](https://www.interviewcake.com/article/python3/data-structures-coding-interview?course=fc1&section=algorithmic-thinking#ram){:target="_blank"}
 
 ### Soundex
 
-So what is this algorithm? According to Wikipedia:
+So what is this algorithm? [According to Wikipedia](https://en.wikipedia.org/wiki/Soundex):
 
-*"Soundex is a phonetic algorithm for indexing names by sound, as pronounced in English. The goal is for homophones to be encoded to the same representation so that they can be matched despite minor differences in spelling. The algorithm mainly encodes consonants; a vowel will not be encoded unless it is the first letter. Soundex is the most widely known of all phonetic algorithms (in part because it is a standard feature of popular database software such as DB2, PostgreSQL, MySQL, SQLite, Ingres, MS SQL Server and Oracle.) Improvements to Soundex are the basis for many modern phonetic algorithms."* [Source](https://en.wikipedia.org/wiki/Soundex)
+> "Soundex is a phonetic algorithm for indexing names by sound, as pronounced in English. The goal is for homophones to be encoded to the same representation so that they can be matched despite minor differences in spelling. The algorithm mainly encodes consonants; a vowel will not be encoded unless it is the first letter. Soundex is the most widely known of all phonetic algorithms (in part because it is a standard feature of popular database software such as DB2, PostgreSQL, MySQL, SQLite, Ingres, MS SQL Server and Oracle.) Improvements to Soundex are the basis for many modern phonetic algorithms."
 
 In summary, the Soundex algorithm takes the string and divides into letters and replaces them with numbers.
 
@@ -37,9 +37,9 @@ This way, the algorithm classifies the word by their sound. For instance, Robert
 
 ### Levenshtein Distance
 
-The Levenshtein distance (a.k.a edit distance) is a measure of similarity between two strings. According to the Wikipedia:
+The Levenshtein distance (a.k.a edit distance) is a measure of similarity between two strings. [According to the Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance):
 
-*"In information theory, linguistics and computer science, the Levenshtein distance is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. It is named after the Soviet mathematician Vladimir Levenshtein, who considered this distance in 1965."* [Source](https://en.wikipedia.org/wiki/Levenshtein_distance)
+> "In information theory, linguistics and computer science, the Levenshtein distance is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. It is named after the Soviet mathematician Vladimir Levenshtein, who considered this distance in 1965."
 
 The edit distance is impressive when you want to build a primitive spellchecker. It is one of the easiest ways to implement "Do you mean xxx?" feature just like Google Search.
 

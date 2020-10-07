@@ -5,8 +5,8 @@ date:   2019-10-17 12:00:00 +0000
 categories: projects
 tags: python automation telegram
 ---
-[Medium Link](https://medium.com/@gokh/building-a-telegram-bot-to-automate-price-tracking-e-mail-notifications-b0a9fa230615) | 
-[Github Repo](https://github.com/gokhj/email-watcher-bot)
+[Medium Link](https://medium.com/@gokh/building-a-telegram-bot-to-automate-price-tracking-e-mail-notifications-b0a9fa230615){:target="_blank"} | 
+[Github Repo](https://github.com/gokhj/email-watcher-bot){:target="_blank"}
 
 This is not going to be a life-changer application; in fact, what I am doing here is just forwarding an e-mail notification to myself or a particular message group. However, this blog post would be a good introduction of Telegram bots and running them on the cloud.
 
@@ -24,7 +24,7 @@ We need to sign up to some services whether to store the bot on the cloud or han
 
 ![heroku-signup](https://miro.medium.com/max/1400/1*NxoIlFsibRn7Lty9XCwA0w.png)
 
-We can deploy our application directly from GitHub, which is normally my daily choice. Although, I will use Heroku Git for this time but beware that it requires a separate installation of [heroku client](https://devcenter.heroku.com/articles/heroku-cli) on computer.
+We can deploy our application directly from GitHub, which is normally my daily choice. Although, I will use Heroku Git for this time but beware that it requires a separate installation of [heroku client](https://devcenter.heroku.com/articles/heroku-cli){:target="_blank"} on computer.
 
 ![cli](https://miro.medium.com/max/1400/1*WU8e9z6rKg9TuciClO7ZAw.png)
 

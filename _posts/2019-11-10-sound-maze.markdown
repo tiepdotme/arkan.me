@@ -6,7 +6,7 @@ categories: projects
 tags: machine-learning node javascript p5 processing webapp
 ---
 
-[GitHub Repo](https://github.com/gokhj/CreativeML-Maze-Game)
+[GitHub Repo](https://github.com/gokhj/CreativeML-Maze-Game){:target="_blank"}
 
 This game allows user to interact and control with various sounds of everyday things.
 

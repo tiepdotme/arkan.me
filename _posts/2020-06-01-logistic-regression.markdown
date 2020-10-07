@@ -5,11 +5,11 @@ date:   2020-06-01 12:00:00 +0100
 categories: projects
 tags: jupyter python machine-learning
 ---
-[GitHub Repo](https://github.com/gokhj/Logistic-Regression)
+[GitHub Repo](https://github.com/gokhj/Logistic-Regression){:target="_blank"}
 
 This code is implementing logistic regression in Python using batch gradient descent.
 
-I will be using the example: "Probability of passing an exam versus hours of study" mentioned [here](https://en.wikipedia.org/wiki/Logistic_regression).
+I will be using the example: "Probability of passing an exam versus hours of study" mentioned [here](https://en.wikipedia.org/wiki/Logistic_regression){:target="_blank"}.
 
 In summary, a student can either **pass** or **fail** the class; this means there is a binary outcome of this question. Since 1 and 0 are not cardinal numbers, logistic regression can be used to predict the probability of passing or failing the class of the student. The implemented class will have two constructing parameters; *learning rate* and *periods*. Learning rate is used to limit the correction of each coefficient every time it is updated. Periods, on the other hand, limits the number of iterations as the fit() method depends on the amount.
 

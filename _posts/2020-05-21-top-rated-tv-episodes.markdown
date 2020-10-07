@@ -436,4 +436,4 @@ if data:
     9. Episode: S5, Ep12, Girls vs. Suits: 9.1
     10. Episode: S6, Ep10, Blitzgiving: 9.1
     
-Check GitHub repo [here](https://github.com/gokhj/Top-Rated-TV-Episodes).
+Check GitHub repo [here](https://github.com/gokhj/Top-Rated-TV-Episodes){:target="_blank"}.

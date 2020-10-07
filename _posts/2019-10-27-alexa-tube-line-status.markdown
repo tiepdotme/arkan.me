@@ -5,8 +5,8 @@ date:   2019-10-27 12:00:00 +0100
 categories: projects
 tags: python lambda aws
 ---
-[Live Project Link](https://alexa.amazon.co.uk/spa/index.html#skills/dp/B081LWRNNN) |
-[GitHub Repo](https://github.com/gokhj/alexa-tube-line-status)
+[Live Project Link](https://alexa.amazon.co.uk/spa/index.html#skills/dp/B081LWRNNN){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/alexa-tube-line-status){:target="_blank"}
 
 The code might be a bit messy; it's my first try on Alexa development. Haven't read anything on it yet, except watching a 5 mins video tutorial on YouTube.
 

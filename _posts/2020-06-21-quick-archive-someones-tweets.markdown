@@ -26,10 +26,10 @@ I am putting the full code below, I believe the lines are pretty much self-expla
 
 ![Script](/assets/archive_tweets/image_796.png)
 
-The repository can be forked [here](https://github.com/gokhj/telegram-tweet-archive), and the following steps need to be done to create your bot.
+The repository can be forked [here](https://github.com/gokhj/telegram-tweet-archive){:target="_blank"}, and the following steps need to be done to create your bot.
 
-1. Create a telegram bot by messaging ```/newbot``` to [BotFather](https://t.me/botfather)
-2. Register to [Twitter Developer Portal](https://developer.twitter.com/en/apps) and create an app
+1. Create a telegram bot by messaging ```/newbot``` to [BotFather](https://t.me/botfather){:target="_blank"}
+2. Register to [Twitter Developer Portal](https://developer.twitter.com/en/apps){:target="_blank"} and create an app
 3. Install libraries ```python install -r requirements.txt```
 4. Change the environment variables with your ones
 5. Run the bot ```python archivebot.py```

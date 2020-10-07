@@ -6,9 +6,9 @@ categories: projects
 tags: javascript vue node aws webapp
 ---
 
-[Live Project Link](https://filetotext.io/) |
-[GitHub Repo](https://github.com/gokhj/filetotext.io/) |
-[Backend](https://github.com/gokhj/api.filetotext.io)
+[Live Project Link](https://filetotext.io/){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/filetotext.io/){:target="_blank"} |
+[Backend](https://github.com/gokhj/api.filetotext.io){:target="_blank"}
 
 A couple of weeks ago, a colleague and I needed a tool to export text from some images. The images were containing long cURL request codes about the backend of a product that we are building together. This was a report generated from a cybersecurity company where they pointed out some issues and vulnerabilities regarding the APIs we built. It was all good, we met in terms, and the fix session was started.
 
@@ -32,7 +32,7 @@ Oh, fun fact: Akrep means Scorpion. Akrep was the horse's name which came first,
 
 ![Akrep Nalan Website](/assets/filetotextio/akrepnalan.png)
 
-You can check the said website [here](http://www.akrepnalan.com/).
+You can check the said website [here](http://www.akrepnalan.com/){:target="_blank"}.
 
 Back in 2018, I sent an email to Akrep Nalan; sadly I have never received a response.
 
@@ -66,11 +66,11 @@ That was my motivation. I want to add one more thing before concluding this post
 
 Some footnotes of the above video:
 
-*"Sooner or later, the server you're hosting your code on will fail, or there'll be a security patch that you'll have to install or technology will move on enough that you'll need to update and rewrite the whole thing, and you will have to ask yourself the question: is it actually worth it?"*
+> "Sooner or later, the server you're hosting your code on will fail, or there'll be a security patch that you'll have to install or technology will move on enough that you'll need to update and rewrite the whole thing, and you will have to ask yourself the question: is it actually worth it?"
 
-*"My code eventually will break. Eventually, so will YouTube, so will everything."*
+> "My code eventually will break. Eventually, so will YouTube, so will everything."
 
-*"Entropy, the steady decline into disorder, is a fundamental part of the universe, entropy will get us all in the end."*
+> "Entropy, the steady decline into disorder, is a fundamental part of the universe, entropy will get us all in the end."
 
 Indeed, the entropy will get us all. Everything will break or die in the end. However, this should not mean we should not develop things. If I have any effect on anyone's life, even with this little project, this might somehow last into the future in a different way.
 

@@ -5,8 +5,8 @@ date:   2020-02-03 12:00:00 +0100
 categories: projects
 tags: react javascript webapp
 ---
-[Live Project Link](https://myspotify.me/) |
-[GitHub Repo](https://github.com/gokhj/mySpotify.me)
+[Live Project Link](https://myspotify.me/){:target="_blank"} |
+[GitHub Repo](https://github.com/gokhj/mySpotify.me){:target="_blank"}
 
 This is a React.JS project where people can see their top songs & artists by logging in with their respective Spotify accounts. The user can also create playlists with their top tracks, including in the last month, over the previous 6 months and account lifetime.
 

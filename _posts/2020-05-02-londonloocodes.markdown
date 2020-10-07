@@ -5,10 +5,10 @@ date:   2020-05-02 12:00:00 +0000
 categories: projects
 tags: react javascript python lambda node webapp
 ---
-[Live Project Link](https://loocode.co.uk) | 
-[Github Repo](https://github.com/gokhj/LondonLooCodes)
+[Live Project Link](https://loocode.co.uk){:target="_blank"} | 
+[Github Repo](https://github.com/gokhj/LondonLooCodes){:target="_blank"}
 
-Inspired by this [Twitter Account](https://twitter.com/ldnloocodes), I decided to develop something helpful for others. Initially, I used their [Google Spreadsheet Data](https://docs.google.com/spreadsheets/d/1NZc0IPV9SV_Wy9xoDckHbVDgJyeW2Str231Uz_e0Mg4/edit#gid=0), and converted that into JSON (well, in my case BSON) fields.
+Inspired by this [Twitter Account](https://twitter.com/ldnloocodes){:target="_blank"}, I decided to develop something helpful for others. Initially, I used their [Google Spreadsheet Data](https://docs.google.com/spreadsheets/d/1NZc0IPV9SV_Wy9xoDckHbVDgJyeW2Str231Uz_e0Mg4/edit#gid=0){:target="_blank"}, and converted that into JSON (well, in my case BSON) fields.
 
 This web app was developed with serverless stack, though in the long run, it might be best to go with a dedicated API. However, this is a toy project, so I wanted to keep everything as simple as possible.
 
