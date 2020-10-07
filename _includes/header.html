@@ -132,18 +132,11 @@
   {% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}" />
   {% endif %} {% feed_meta %}
-  <link
-    rel="favicon"
-    sizes="32x32"
-    href="/favicon.ico"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="/favicon.ico"
-  />
+  <link rel="favicon" sizes="32x32" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico" />
+  {% comment %}
   <link rel="manifest" href="/assets/favicons/site.webmanifest" />
+  {% endcomment %}
   <link
     rel="mask-icon"
     href="/assets/favicons/safari-pinned-tab.svg"
@@ -156,11 +149,11 @@
 
   <link rel="stylesheet" href="/assets/css/style.css" />
   <style>
-  .randomCat {
-    max-width: 400px;
-    margin: auto;
-    padding: auto;
-    display: none;
-  }
+    .randomCat {
+      max-width: 400px;
+      margin: auto;
+      padding: auto;
+      display: none;
+    }
   </style>
 </head>
