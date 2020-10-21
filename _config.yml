@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Gökhan Arkan # author name
   bio: >- # tell to the world
-    A personal blog about things, usually the little projects I worked on.
+    A personal blog about things, usually the side projects I worked on.
   username: # general username
   github: gokhj # github username
   twitter: # twitter username
