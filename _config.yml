@@ -24,7 +24,7 @@ author:
 url: "https://arkan.me" #
 baseurl:
 permalink: /:title/
-google_analytics: "https://www.googletagmanager.com/gtag/js?id=G-56GQDTCGCX"
+google_analytics:
 fb_appid:
 
 # Collection setting
