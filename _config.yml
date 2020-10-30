@@ -24,7 +24,7 @@ author:
 url: "https://arkan.me" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "https://www.googletagmanager.com/gtag/js?id=G-56GQDTCGCX"
 fb_appid:
 
 # Collection setting
